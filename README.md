@@ -156,3 +156,17 @@ Content Cell  | Content Cell
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+
+## 文字处理
+
+### 加粗
+
+__变粗__
+
+~~划掉~~
+
+_变斜_
+
+## 表情
+
+:smile:
