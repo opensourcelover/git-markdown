@@ -7,4 +7,6 @@
 
 [qrcode]:./images/qrcode.png "二维码"
 
-![]:(./images/qrcode.png "二维码")
+![](./images/qrcode.png "二维码")
+
+> 插入图片 `![](url "title")`
