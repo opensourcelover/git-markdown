@@ -7,4 +7,4 @@
 
 [qrcode]:./images/qrcode.png "二维码"
 
-![]:./images/qrcode.png "二维码"
+![]:(./images/qrcode.png "二维码")
